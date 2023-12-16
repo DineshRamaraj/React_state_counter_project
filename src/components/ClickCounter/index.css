@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+.heading {
+  font-family: 'Roboto';
+  color: #2d3a35;
+}
+.description {
+  font-family: 'Roboto';
+}
+.counter {
+  color: #c20a72;
+}
+.button {
+  color: #ffffff;
+  background-color: #007bff;
+  font-family: 'Roboto';
+  border: 0px;
+  border-radius: 8px;
+  padding: 5px 10px;
+  font-weight: 600;
+  font-size: 16px;
+  width: 110px;
+  height: 35px;
+}
